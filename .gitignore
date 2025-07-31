@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# CatBoost
+catboost_info/
+
+# OS/macOS
+.DS_Store
